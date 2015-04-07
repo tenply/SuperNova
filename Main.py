@@ -2,6 +2,7 @@ import pygame as pg
 import Weapons, Player, Enemy
 import sys, os
 
+#anal
 game_running = True
 
 #Colour Dictionary
